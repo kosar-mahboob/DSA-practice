@@ -8,6 +8,7 @@ public class FindMinimumInRotatedArray {
             // If mid element is greater than end, min is on the right
             if (nums[mid] > nums[end]) {
                 start = mid + 1;
+
             } else {
                 end = mid; // min is at mid or to the left
             }
