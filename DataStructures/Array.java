@@ -40,6 +40,7 @@ class Array {
         return newArr;
     }
 
+
     // Searching (linear search)
     static int search(int[] arr, int value) {
         for (int i = 0; i < arr.length; i++) {
