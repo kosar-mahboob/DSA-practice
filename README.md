@@ -88,8 +88,8 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 ## 💖 Author
 
 **Kosar Bibi**  
-💻 Java Developer & AI Dreamer  
-📘 Reg No: **B24F1055AI025**  
+💻  Developer & AI Dreamer  
+
 💬 “No zero days. One step forward is still progress.”
 
 ---
