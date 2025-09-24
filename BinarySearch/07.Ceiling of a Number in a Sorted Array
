@@ -1,0 +1,26 @@
+public class CeilingNumber {
+    public static int findCeiling(int[] nums, int target) {
+        int start = 0, end = nums.length - 1;
+        int ans = -1;   // default if no ceiling exists
+
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+
+            if (nums[mid] >= target) {
+                ans = nums[mid];    // possible ceiling
+                end = mid - 1;      // move left to find smaller valid value
+            } else {
+                start = mid + 1;    // need bigger numbers
+            }
+        }
+        return ans;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {1, 3, 5, 7, 9};
+        int target = 6;
+
+        int result = findCeiling(nums, target);
+        System.out.println("Ceiling of " + target + " is: " + result);
+    }
+}
