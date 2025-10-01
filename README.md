@@ -10,6 +10,8 @@ I’m uploading this README to **stay consistent** and keep my GitHub active, ev
 ## ✅ Q1: First and Last Position of Element in Sorted Array
 
 
+
+
 **Problem:**  
 Given a sorted array and a target element, find the **first** and **last** occurrence of that element using Binary Search.
 
