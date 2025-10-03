@@ -1,4 +1,8 @@
 
+
+
+
+
 # 📘 DSA Practice Log – Binary Search Series (Questions 1 to 6)
 
 Welcome to my DSA learning journal 👩‍💻  
