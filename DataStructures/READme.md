@@ -21,8 +21,6 @@ This program includes the following array operations:
 ---
 
 
-
-
 ## 🧾 How It Works
 
 The program uses static methods inside a class called `Array` to perform various operations on a 1D array of integers.
