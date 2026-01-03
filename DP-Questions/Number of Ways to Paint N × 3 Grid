@@ -1,0 +1,107 @@
+// Leet code problem no :1411. Number of Ways to Paint N × 3 Grid
+#include <iostream>
+#include <vector>
+using namespace std;
+
+class Solution {
+public:
+    int numOfWays(int n) {
+        const int MOD = 1e9 + 7;
+        
+        // Base case: for n = 1
+        // a = number of Type A patterns (all three colors different): 6
+        // b = number of Type B patterns (first and third same): 6
+        long long a = 6, b = 6;
+        
+        for (int i = 2; i <= n; i++) {
+            long long a_new = (2 * a + 2 * b) % MOD;
+            long long b_new = (2 * a + 3 * b) % MOD;
+            a = a_new;
+            b = b_new;
+        }
+        
+        return (a + b) % MOD;
+    }
+};
+
+// Alternative implementation using DP array (more explicit)
+class Solution2 {
+public:
+    int numOfWays(int n) {
+        const int MOD = 1e9 + 7;
+        
+        // dp[i][0] = number of ways for i rows ending with Type A pattern
+        // dp[i][1] = number of ways for i rows ending with Type B pattern
+        vector<vector<long long>> dp(n + 1, vector<long long>(2, 0));
+        
+        // Base case
+        dp[1][0] = 6; // Type A: RYG, RGY, YRG, YGR, GRY, GYR
+        dp[1][1] = 6; // Type B: RYR, RGR, YRY, YGY, GRG, GBG
+        
+        for (int i = 2; i <= n; i++) {
+            // Transition formulas
+            dp[i][0] = (2 * dp[i-1][0] + 2 * dp[i-1][1]) % MOD;
+            dp[i][1] = (2 * dp[i-1][0] + 3 * dp[i-1][1]) % MOD;
+        }
+        
+        return (dp[n][0] + dp[n][1]) % MOD;
+    }
+};
+
+// Space-optimized version
+class Solution3 {
+public:
+    int numOfWays(int n) {
+        const int MOD = 1e9 + 7;
+        
+        long long typeA = 6, typeB = 6;
+        
+        for (int i = 2; i <= n; i++) {
+            // Calculate next values
+            long long nextA = (2 * typeA + 2 * typeB) % MOD;
+            long long nextB = (2 * typeA + 3 * typeB) % MOD;
+            
+            // Update for next iteration
+            typeA = nextA;
+            typeB = nextB;
+        }
+        
+        return (typeA + typeB) % MOD;
+    }
+};
+
+// Matrix exponentiation approach (useful if n is extremely large)
+class Solution4 {
+public:
+    int numOfWays(int n) {
+        const int MOD = 1e9 + 7;
+        
+        if (n == 1) return 12;
+        
+        // We want to compute [2 2; 2 3]^(n-1) * [6; 6]
+        // But let's use the recurrence relation which is simpler for n ≤ 5000
+        
+        long long a = 6, b = 6;
+        
+        for (int i = 2; i <= n; i++) {
+            long long temp_a = a;
+            a = (2 * a + 2 * b) % MOD;
+            b = (2 * temp_a + 3 * b) % MOD;
+        }
+        
+        return (a + b) % MOD;
+    }
+};
+
+int main() {
+    Solution sol;
+    
+    // Test cases
+    cout << "n = 1: " << sol.numOfWays(1) << endl;  // Expected: 12
+    cout << "n = 2: " << sol.numOfWays(2) << endl;  // Expected: 54
+    cout << "n = 3: " << sol.numOfWays(3) << endl;  // Expected: 246
+    cout << "n = 7: " << sol.numOfWays(7) << endl;  // Expected: 106494
+    cout << "n = 5000: " << sol.numOfWays(5000) << endl;  // Expected: 30228214
+    
+    return 0;
+}
