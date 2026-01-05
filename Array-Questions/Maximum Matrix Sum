@@ -1,0 +1,22 @@
+#leetcode problem no :1975. Maximum Matrix Sum
+from typing import List
+
+class Solution:
+    def maxMatrixSum(self, matrix: List[List[int]]) -> int:
+        n = len(matrix)
+        total_abs_sum = 0
+        neg_count = 0
+        min_abs = float('inf')
+        
+        for i in range(n):
+            for j in range(n):
+                val = matrix[i][j]
+                total_abs_sum += abs(val)
+                if val < 0:
+                    neg_count += 1
+                min_abs = min(min_abs, abs(val))
+        
+        if neg_count % 2 == 0:
+            return total_abs_sum
+        else:
+            return total_abs_sum - 2 * min_abs
