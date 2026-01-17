@@ -1,3 +1,4 @@
+# leetcode problem no : 3047. Find the Largest Area of Square Inside Two Rectangles
 from typing import List
 
 class Solution:
