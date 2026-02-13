@@ -1,0 +1,66 @@
+#LEETCODE PROBLEM NO : 3714 Longest Balanced Substring II
+class Solution:
+    def longestBalancedSubstring(self, s: str) -> int:
+        n = len(s)
+        # longest run of a single character
+        max_single = 0
+        cur = 1
+        for i in range(1, n):
+            if s[i] == s[i-1]:
+                cur += 1
+            else:
+                max_single = max(max_single, cur)
+                cur = 1
+        max_single = max(max_single, cur)
+
+        # helper for two‑letter case
+        def longest_pair(a: str, b: str, forbid: str) -> int:
+            best = 0
+            i = 0
+            while i < n:
+                if s[i] == forbid:
+                    i += 1
+                    continue
+                start = i
+                while i < n and s[i] != forbid:
+                    i += 1
+                end = i - 1
+                # process segment [start, end] (only a and b appear)
+                first = {0: start - 1}      # sum 0 before the segment
+                cur_sum = 0
+                for j in range(start, end + 1):
+                    if s[j] == a:
+                        cur_sum += 1
+                    else:                   # must be b
+                        cur_sum -= 1
+                    if cur_sum in first:
+                        best = max(best, j - first[cur_sum])
+                    else:
+                        first[cur_sum] = j
+            return best
+
+        two_ab = longest_pair('a', 'b', 'c')
+        two_ac = longest_pair('a', 'c', 'b')
+        two_bc = longest_pair('b', 'c', 'a')
+
+        # three‑letter case: all counts equal
+        cnt = [0, 0, 0]          # a, b, c
+        first = {(0, 0): 0}       # (diff_ab, diff_ac) -> first index
+        max_three = 0
+        for i in range(1, n + 1):
+            ch = s[i-1]
+            if ch == 'a':
+                cnt[0] += 1
+            elif ch == 'b':
+                cnt[1] += 1
+            else:
+                cnt[2] += 1
+            d1 = cnt[0] - cnt[1]
+            d2 = cnt[0] - cnt[2]
+            key = (d1, d2)
+            if key in first:
+                max_three = max(max_three, i - first[key])
+            else:
+                first[key] = i
+
+        return max(max_single, two_ab, two_ac, two_bc, max_three)
