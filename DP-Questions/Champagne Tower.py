@@ -1,4 +1,4 @@
-
+# leetcode problem no : 799. Champagne Tower
 class Solution:
     def champagneTower(self, poured: int, query_row: int, query_glass: int) -> float:
         # current row: start with the top glass
