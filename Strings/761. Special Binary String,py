@@ -1,0 +1,28 @@
+class Solution:
+    def makeLargestSpecial(self, s: str) -> str:
+        """
+        Returns the lexicographically largest string achievable by swapping
+        consecutive special substrings of the given special binary string.
+        """
+        # Base case: empty string
+        if not s:
+            return ""
+
+        parts = []          # will hold the processed primitive substrings
+        balance = 0
+        start = 0
+
+        # Scan the string to find all primitive special substrings
+        for i, ch in enumerate(s):
+            balance += 1 if ch == '1' else -1
+            if balance == 0:
+                # s[start:i+1] is a primitive special substring
+                inner = s[start + 1:i]          # strip the outer '1' and '0'
+                # Recursively process the inside and rebuild
+                parts.append('1' + self.makeLargestSpecial(inner) + '0')
+                start = i + 1                    # move to the next part
+
+        # To obtain the lexicographically largest result,
+        # sort the parts in descending order and concatenate them.
+        parts.sort(reverse=True)
+        return ''.join(parts)
