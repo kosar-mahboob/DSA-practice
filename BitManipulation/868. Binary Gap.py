@@ -4,7 +4,7 @@ class Solution:
     def binaryGap(self, n: int) -> int:
         """
         Returns the longest distance between two consecutive 1's in the binary
-        representation of n. Distance is measured in bit positions (0-indexed from LSB).
+        representation    of n. Distance is measured in bit positions (0-indexed from LSB).
         If fewer than two 1's exist, returns 0.
         """
         prev = None          # position of the most recent 1 seen
