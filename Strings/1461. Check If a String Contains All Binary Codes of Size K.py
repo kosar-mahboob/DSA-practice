@@ -5,7 +5,7 @@ class Solution:
         """   
         total = 1 << k               # total number of distinct binary strings of length k
         seen = set()
-        for i in range(len(s) - k + 1):
+        for i in range(len(s) - k + 1): 
             seen.add(s[i:i+k])
             if len(seen) == total:   # early exit if we've found them all
                 return True
