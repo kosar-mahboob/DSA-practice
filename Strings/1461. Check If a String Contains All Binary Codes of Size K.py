@@ -3,7 +3,8 @@ class Solution:
         """
         Returns True if every binary string of length k appears as a substring of s.
         """   
-        total = 1 << k               # total number of distinct binary strings of length k
+        total = 1 << k 
+        # total number of distinct binary strings of length k
         seen = set()
         for i in range(len(s) - k + 1): 
             seen.add(s[i:i+k])
