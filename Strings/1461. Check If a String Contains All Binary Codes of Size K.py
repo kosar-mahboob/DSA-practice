@@ -1,5 +1,6 @@
 class Solution:
     def hasAllCodes(self, s: str, k: int) -> bool:
+        
         """
         Returns True if every binary string of length k appears as a substring of s.
         """   
