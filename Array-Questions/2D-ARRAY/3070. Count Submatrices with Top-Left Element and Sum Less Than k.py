@@ -13,6 +13,7 @@ class Solution:
                 else:
                     grid[i][j] += grid[i-1][j] + grid[i][j-1] - grid[i-1][j-1]
 
+        
         # Count valid submatrices
         count = 0
         for i in range(m):
