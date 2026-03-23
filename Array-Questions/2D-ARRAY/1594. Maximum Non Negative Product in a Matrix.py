@@ -4,6 +4,7 @@ class Solution:
     def maxProductPath(self, grid: List[List[int]]) -> int:
         MOD = 10**9 + 7
         m, n = len(grid), len(grid[0])
+    
         
         # dp_max and dp_min will store the maximum and minimum product for each cell
         dp_max = [[0] * n for _ in range(m)]
