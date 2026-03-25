@@ -11,7 +11,8 @@ class Solution:
                 if row[j] == 1:
                     rightmost = j
                     break
-            req.append(rightmost)   # -1 means no ones
+            req.append(rightmost)   
+            # -1 means no ones
         
         # Current list of requirements in original order
         cur = req[:]
