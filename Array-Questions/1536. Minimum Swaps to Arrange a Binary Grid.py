@@ -4,7 +4,6 @@ class Solution:
         # For each row, find the column of the rightmost 1 (or -1 if none)
         req = []
         for row in grid:
-            
             # scan from right to left
             rightmost = -1
             
