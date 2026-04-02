@@ -3,7 +3,7 @@ class Solution:
     def champagneTower(self, poured: int, query_row: int, query_glass: int) -> float:
         # current row: start with the top glass
         current = [float(poured)]
-        
+    
         # simulate row by row until we reach the query row
         for r in range(query_row):
             # next row has one more glass than current row
