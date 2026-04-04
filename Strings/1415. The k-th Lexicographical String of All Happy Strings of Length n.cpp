@@ -3,7 +3,6 @@ public:
     string getHappyString(int n, int k) {
         // Total happy strings of length n = 3 * 2^(n-1)
         // because first char has 3 choices, each subsequent has 2 choices
-        
         int total = 3 * (1 << (n - 1));
         if (k > total) return "";
     
