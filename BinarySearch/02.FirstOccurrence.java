@@ -7,7 +7,6 @@ public class FirstOccurrence {
         int index = firstOccurrence(nums, target);
         System.out.println("First Occurrence at index: " + index);
     }
-
     static int firstOccurrence(int[] arr, int target) {
         int start = 0, end = arr.length - 1;
         int result = -1;
