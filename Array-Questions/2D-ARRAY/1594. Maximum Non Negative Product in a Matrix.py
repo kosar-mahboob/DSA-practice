@@ -1,7 +1,6 @@
 from typing import List
 
 class Solution:
-    
     def maxProductPath(self, grid: List[List[int]]) -> int:
         MOD = 10**9 + 7
         m, n = len(grid), len(grid[0])
