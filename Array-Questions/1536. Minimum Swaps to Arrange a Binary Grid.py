@@ -12,7 +12,6 @@ class Solution:
                     break
             req.append(rightmost)   
             # -1 means no ones
-        
         # Current list of requirements in original order
         cur = req[:]
         swaps = 0
