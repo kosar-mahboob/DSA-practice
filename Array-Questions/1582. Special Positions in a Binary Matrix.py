@@ -8,4 +8,5 @@ class Solution:
             for j in range(n):
                 if mat[i][j] == 1 and row_sum[i] == 1 and col_sum[j] == 1:
                     count += 1
+                    
         return count
