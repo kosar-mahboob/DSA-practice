@@ -5,8 +5,7 @@ class Solution:
         m, n = len(grid), len(grid[0])
         visited = [[False] * n for _ in range(m)]
         dirs = [(1,0), (-1,0), (0,1), (0,-1)]
-        
-        for i in range(m):
+            for i in range(m):
             for j in range(n):
                 if not visited[i][j]:
                     stack = [(i, j, -1, -1)]
