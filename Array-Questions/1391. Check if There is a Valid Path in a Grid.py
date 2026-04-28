@@ -4,7 +4,6 @@ from collections import deque
 class Solution:
     def hasValidPath(self, grid: List[List[int]]) -> bool:
         m, n = len(grid), len(grid[0])
-        
         # directions: 0: left, 1: right, 2: up, 3: down
         # For each street type, which directions it connects to
         # Street 1: left & right
