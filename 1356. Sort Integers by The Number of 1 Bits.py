@@ -7,3 +7,4 @@ class Solution:
         # Use a tuple key: (bit_count, value)
         arr.sort(key=lambda x: (x.bit_count(), x))
         return arr
+        
