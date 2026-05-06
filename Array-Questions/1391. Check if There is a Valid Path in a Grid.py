@@ -1,6 +1,5 @@
 from typing import List
 from collections import deque
-
 class Solution:
     def hasValidPath(self, grid: List[List[int]]) -> bool:
         m, n = len(grid), len(grid[0])
