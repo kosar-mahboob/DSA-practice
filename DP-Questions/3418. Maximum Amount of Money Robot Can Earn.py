@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def maximumAmount(self, coins: List[List[int]]) -> int:
         m, n = len(coins), len(coins[0])
