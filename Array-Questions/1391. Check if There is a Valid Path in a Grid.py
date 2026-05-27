@@ -19,7 +19,6 @@ class Solution:
             5: [0, 2],
             6: [1, 2]
         }
-        
         # offsets: left, right, up, down
         dr = [0, 0, -1, 1]
         dc = [-1, 1, 0, 0]
