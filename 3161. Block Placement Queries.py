@@ -1,4 +1,3 @@
-from typing import List
 
 class BIT:
     # Fenwick tree for prefix sums and find_kth
