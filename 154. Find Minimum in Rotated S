@@ -6,7 +6,6 @@ class Solution {
         int resultIdx = 0;
 
         while (l <= r) {
-
             // remove duplicates from left
             while (l < r && nums[l] == nums[l + 1])
                 l++;
