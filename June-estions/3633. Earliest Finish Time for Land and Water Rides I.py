@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def minFinishTime(self,
                       landStartTime: List[int],
