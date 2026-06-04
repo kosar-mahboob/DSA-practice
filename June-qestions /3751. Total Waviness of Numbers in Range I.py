@@ -11,7 +11,7 @@ class Solution:
                 elif s[i] < s[i-1] and s[i] < s[i+1]:
                     cnt += 1
             return cnt
-        
+
         total = 0
         for n in range(num1, num2 + 1):
             total += waviness(n)
