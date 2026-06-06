@@ -1,4 +1,3 @@
-from typing import List
 
 class Solution:
     def leftRighDifference(self, nums: List[int]) -> List[int]:
