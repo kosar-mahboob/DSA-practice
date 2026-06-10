@@ -1,5 +1,4 @@
-import heapq
-from typing import List
+
 
 class SparseTable:
     def __init__(self, arr, func):
