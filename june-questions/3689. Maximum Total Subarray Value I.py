@@ -1,5 +1,3 @@
-
-
 class Solution:
     def maxTotalSubarrayValue(self, nums: List[int], k: int) -> int:
         # The maximum possible value of any subarray is max(nums) - min(nums)
