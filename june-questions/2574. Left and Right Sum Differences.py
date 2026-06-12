@@ -1,4 +1,3 @@
-
 class Solution:
     def leftRighDifference(self, nums: List[int]) -> List[int]:
         n = len(nums)
