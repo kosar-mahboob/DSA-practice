@@ -1,5 +1,3 @@
-
-
 class SparseTable:
     def __init__(self, arr, func):
         self.n = len(arr)
