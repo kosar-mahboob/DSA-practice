@@ -12,3 +12,4 @@ class Solution:
             else:
                 greater.append(x)
         return less + equal + greater
+        
