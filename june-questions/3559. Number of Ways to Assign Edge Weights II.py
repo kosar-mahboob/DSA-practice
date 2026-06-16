@@ -2,7 +2,6 @@ from typing import List
 from collections import deque
 
 MOD = 10**9 + 7
-
 class Solution:
     def assignEdgeWeights(self, edges: List[List[int]], queries: List[List[int]]) -> List[int]:
         n = len(edges) + 1
