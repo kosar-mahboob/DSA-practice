@@ -10,7 +10,6 @@ class Solution:
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-        
         # Step 2: Reverse the second half starting from slow
         prev = None
         while slow:
