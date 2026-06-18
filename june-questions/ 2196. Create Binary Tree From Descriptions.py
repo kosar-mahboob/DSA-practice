@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from typing import List, Optional
 
 class Solution:
     def createBinaryTree(self, descriptions: List[List[int]]) -> Optional[TreeNode]:
