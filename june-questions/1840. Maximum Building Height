@@ -1,0 +1,35 @@
+from typing import List
+
+class Solution:
+    def maxBuilding(self, n: int, restrictions: List[List[int]]) -> int:
+        # Add sentinel restriction for building 1: height must be 0
+        restrictions.append([1, 0])
+        restrictions.sort()
+        
+        ids = [r[0] for r in restrictions]
+        caps = [r[1] for r in restrictions]
+        m = len(ids)
+        
+        # Left to right propagation
+        left = caps[:]
+        for i in range(1, m):
+            left[i] = min(left[i], left[i-1] + (ids[i] - ids[i-1]))
+        
+        # Right to left propagation
+        right = caps[:]
+        for i in range(m-2, -1, -1):
+            right[i] = min(right[i], right[i+1] + (ids[i+1] - ids[i]))
+        
+        # Actual feasible heights at restricted buildings
+        h = [min(left[i], right[i]) for i in range(m)]
+        
+        ans = 0
+        # Maximum height between consecutive restrictions
+        for i in range(m-1):
+            peak = (h[i] + h[i+1] + (ids[i+1] - ids[i])) // 2
+            ans = max(ans, peak)
+        
+        # After the last restriction, we can keep increasing to the end
+        ans = max(ans, h[-1] + (n - ids[-1]))
+        
+        return ans
