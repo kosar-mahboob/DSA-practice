@@ -102,3 +102,18 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 💬 “No zero days. One step forward is still progress.”
 
 ---
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kosar-mahboob/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kosar-mahboob/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kosar-mahboob/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+<!---LeetCode Topics End-->
