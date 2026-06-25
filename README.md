@@ -121,4 +121,8 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kosar-mahboob/DSA-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
