@@ -128,6 +128,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 ## Array
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kosar-mahboob/DSA-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kosar-mahboob/DSA-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -165,4 +166,12 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kosar-mahboob/DSA-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kosar-mahboob/DSA-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kosar-mahboob/DSA-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
