@@ -118,6 +118,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kosar-mahboob/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+| [1301-number-of-paths-with-max-score](https://github.com/kosar-mahboob/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/kosar-mahboob/DSA-practice/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -131,6 +132,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/kosar-mahboob/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kosar-mahboob/DSA-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kosar-mahboob/DSA-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kosar-mahboob/DSA-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -204,6 +206,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/kosar-mahboob/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kosar-mahboob/DSA-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
