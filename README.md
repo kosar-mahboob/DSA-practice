@@ -132,6 +132,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/kosar-mahboob/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kosar-mahboob/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kosar-mahboob/DSA-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kosar-mahboob/DSA-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -182,6 +183,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/kosar-mahboob/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kosar-mahboob/DSA-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
