@@ -125,6 +125,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Database
 |  |
 | ------- |
