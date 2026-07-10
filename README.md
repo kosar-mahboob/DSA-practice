@@ -108,6 +108,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kosar-mahboob/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kosar-mahboob/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [1301-number-of-paths-with-max-score](https://github.com/kosar-mahboob/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kosar-mahboob/DSA-practice/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -142,6 +144,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kosar-mahboob/DSA-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kosar-mahboob/DSA-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kosar-mahboob/DSA-practice/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -186,11 +189,13 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kosar-mahboob/DSA-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/kosar-mahboob/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kosar-mahboob/DSA-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -206,6 +211,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kosar-mahboob/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kosar-mahboob/DSA-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kosar-mahboob/DSA-practice/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -226,6 +232,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kosar-mahboob/DSA-practice/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -240,4 +247,8 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kosar-mahboob/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
