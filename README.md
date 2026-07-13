@@ -186,6 +186,7 @@ Find the **greatest element ≤ target** (i.e., the floor of the target) in a so
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/kosar-mahboob/DSA-practice/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kosar-mahboob/DSA-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
