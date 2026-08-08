@@ -5,7 +5,7 @@
 ## 💖 Author
 
 **Kosar Bibi**  
-💻  Developer & AI Dreamer  
+  Developer & AI Dreamer  
 
 💬 “No zero days. One step forward is still progress.”
 
