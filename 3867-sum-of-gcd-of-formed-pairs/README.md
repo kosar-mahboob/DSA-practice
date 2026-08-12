@@ -2,6 +2,7 @@
 
 <p>Construct an array <code>prefixGcd</code> where for each index <code>i</code>:</p>
 
+
 <ul>
 	<li>Let <code>mx<sub>i</sub> = max(nums[0], nums[1], ..., nums[i])</code>.</li>
 	<li><code>prefixGcd[i] = gcd(nums[i], mx<sub>i</sub>)</code>.</li>
