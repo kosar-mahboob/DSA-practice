@@ -47,6 +47,7 @@
 | [1406-stone-game-iii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kosar-mahboob/DSA-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kosar-mahboob/DSA-practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kosar-mahboob/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kosar-mahboob/DSA-practice/tree/master/3620-network-recovery-pathways) |
@@ -61,6 +62,7 @@
 | [1406-stone-game-iii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kosar-mahboob/DSA-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kosar-mahboob/DSA-practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kosar-mahboob/DSA-practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kosar-mahboob/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kosar-mahboob/DSA-practice/tree/master/2029-stone-game-ix) |
@@ -99,6 +101,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kosar-mahboob/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/kosar-mahboob/DSA-practice/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kosar-mahboob/DSA-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kosar-mahboob/DSA-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kosar-mahboob/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kosar-mahboob/DSA-practice/tree/master/2029-stone-game-ix) |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kosar-mahboob/DSA-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -327,6 +331,7 @@
 | [1406-stone-game-iii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kosar-mahboob/DSA-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kosar-mahboob/DSA-practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kosar-mahboob/DSA-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kosar-mahboob/DSA-practice/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -335,6 +340,7 @@
 | [1140-stone-game-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kosar-mahboob/DSA-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kosar-mahboob/DSA-practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -342,6 +348,7 @@
 | [1140-stone-game-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kosar-mahboob/DSA-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kosar-mahboob/DSA-practice/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
