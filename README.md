@@ -1,7 +1,5 @@
 
 
-
-
 ## 💖 Author
 
 **Kosar Bibi**  
