@@ -60,6 +60,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kosar-mahboob/DSA-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kosar-mahboob/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kosar-mahboob/DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kosar-mahboob/DSA-practice/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -88,6 +89,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kosar-mahboob/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kosar-mahboob/DSA-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kosar-mahboob/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -141,6 +143,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/kosar-mahboob/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kosar-mahboob/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kosar-mahboob/DSA-practice/tree/master/3620-network-recovery-pathways) |
