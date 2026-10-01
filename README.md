@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kosar-mahboob/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kosar-mahboob/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1096-brace-expansion-ii) |
@@ -390,6 +391,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kosar-mahboob/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -473,6 +475,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kosar-mahboob/DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
