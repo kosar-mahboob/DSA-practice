@@ -23,6 +23,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kosar-mahboob/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kosar-mahboob/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1096-brace-expansion-ii) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kosar-mahboob/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/kosar-mahboob/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kosar-mahboob/DSA-practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/0940-distinct-subsequences-ii) |
@@ -440,6 +442,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kosar-mahboob/DSA-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
@@ -476,6 +479,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kosar-mahboob/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kosar-mahboob/DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
